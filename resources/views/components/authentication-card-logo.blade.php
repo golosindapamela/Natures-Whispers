@@ -1,0 +1,1 @@
+<img src="logo.png" alt="Nature's Whispers Logo" style="width: 100px;">
